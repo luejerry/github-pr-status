@@ -5,6 +5,8 @@
 // @version     0.0.1
 // @grant       none
 // @author      cyricc
+// @downloadURL https://github.com/luejerry/github-pr-status/raw/master/githubpullrequeststatus.user.js
+// @updateURL   https://github.com/luejerry/github-pr-status/raw/master/githubpullrequeststatus.user.js
 // ==/UserScript==
 
 (function () {
